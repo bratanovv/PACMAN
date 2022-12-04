@@ -144,3 +144,4 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 	}
 	return(DefWindowProc(hWnd, iMessage, wParam, lParam));
 }
+//pizda
