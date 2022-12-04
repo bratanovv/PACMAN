@@ -538,3 +538,4 @@ bool PlayManager::Catch_Player() //сьеден ли пакман
 	}
 	return false;
 }
+//pizda
