@@ -1,0 +1,113 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource1.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Русский (Россия) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource1.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_EATING       BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\EATING.bmp"
+
+IDB_BITMAP_EMPTY        BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\EMPTY.bmp"
+
+IDB_BITMAP_ENEMY1_DOWN  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY1_DOWN.bmp"
+
+IDB_BITMAP_ENEMY1_LEFT  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY1_LEFT.bmp"
+
+IDB_BITMAP_ENEMY1_RIGHT BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY1_RIGHT.bmp"
+
+IDB_BITMAP_ENEMY1_UP    BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY1_UP.bmp"
+
+IDB_BITMAP_ENEMY2_DOWN  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY2_DOWN.bmp"
+
+IDB_BITMAP_ENEMY2_LEFT  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY2_LEFT.bmp"
+
+IDB_BITMAP_ENEMY2_RIGHT BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY2_RIGHT.bmp"
+
+IDB_BITMAP_ENEMY2_UP    BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY2_UP.bmp"
+
+IDB_BITMAP_ENEMY3_DOWN  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY3_DOWN.bmp"
+
+IDB_BITMAP_ENEMY3_LEFT  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY3_LEFT.bmp"
+
+IDB_BITMAP_ENEMY3_RIGHT BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY3_RIGHT.bmp"
+
+IDB_BITMAP_ENEMY3_UP    BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY3_UP.bmp"
+
+IDB_BITMAP_ENEMY4_DOWN  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY4_DOWN.bmp"
+
+IDB_BITMAP_ENEMY4_LEFT  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY4_LEFT.bmp"
+
+IDB_BITMAP_ENEMY4_RIGHT BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY4_RIGHT.bmp"
+
+IDB_BITMAP_ENEMY4_UP    BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\ENEMY4_UP.bmp"
+
+IDB_BITMAP_PLAYER_DOWN  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\PLAYER_DOWN.bmp"
+
+IDB_BITMAP_PLAYER_LEFT  BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\PLAYER_LEFT.bmp"
+
+IDB_BITMAP_PLAYER_RIGHT BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\PLAYER_RIGHT.bmp"
+
+IDB_BITMAP_PLAYER_UP    BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\PLAYER_UP.bmp"
+
+IDB_BITMAP_WALL         BITMAP                  "C:\\Users\\Михаил\\Desktop\\ghosts\\WALL.bmp"
+
+#endif    // Русский (Россия) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
