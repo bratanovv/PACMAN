@@ -1,3 +1,3 @@
 # PCMN
 
-Simple WinApi game =)...
+Simple WinApi game =)
